@@ -45,13 +45,17 @@
 		0EC42375233A5CFC00FBCA00 /* placeholder.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = placeholder.png; sourceTree = "<group>"; };
 		0EC42376233A5CFC00FBCA00 /* Open Restaurant.app */ = {isa = PBXFileReference; lastKnownFileType = wrapper.application; path = "Open Restaurant.app"; sourceTree = "<group>"; };
 		0EC42379233A5D0300FBCA00 /* AppCanvas.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = AppCanvas.pdf; sourceTree = "<group>"; };
+		0EC42395233A634800FBCA00 /* Lab - Constants and Variables.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Lab - Constants and Variables.playground"; sourceTree = "<group>"; };
+		0EC42398233A634800FBCA00 /* Lab - Operators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Lab - Operators.playground"; sourceTree = "<group>"; };
+		0EC4239B233A634800FBCA00 /* Lab - Control Flow.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Lab - Control Flow.playground"; sourceTree = "<group>"; };
+		0EC4239E233A634800FBCA00 /* Lab - Introduction.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Lab - Introduction.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		0EC421C7233A5C3F00FBCA00 = {
 			isa = PBXGroup;
 			children = (
-				0EC4237A233A627A00FBCA00 /* 1 - Getting Started */,
+				0EC42383233A634700FBCA00 /* 1 - Getting Started */,
 				0EC42329233A5CE700FBCA00 /* 2 - Introduction to UIKit */,
 				0EC4233F233A5CF000FBCA00 /* 3 - Navigation and Workflows */,
 				0EC42358233A5CF600FBCA00 /* 4 - Tables and Persistence */,
@@ -445,73 +449,77 @@
 			path = "4 - Project Planning";
 			sourceTree = "<group>";
 		};
-		0EC4237A233A627A00FBCA00 /* 1 - Getting Started */ = {
+		0EC42383233A634700FBCA00 /* 1 - Getting Started */ = {
 			isa = PBXGroup;
 			children = (
-				0EC42381233A627A00FBCA00 /* 1 - Introduction to Swift and Playgrounds */,
-				0EC4237B233A627A00FBCA00 /* 2 - Constants, Variables, and Data Types */,
-				0EC4237D233A627A00FBCA00 /* 3 - Operators */,
-				0EC4237F233A627A00FBCA00 /* 4 - Control Flow */,
+				0EC4239C233A634800FBCA00 /* 1 - Introduction to Swift and Playgrounds */,
+				0EC42393233A634800FBCA00 /* 2 - Constants, Variables, and Data Types */,
+				0EC42396233A634800FBCA00 /* 3 - Operators */,
+				0EC42399233A634800FBCA00 /* 4 - Control Flow */,
 			);
 			path = "1 - Getting Started";
 			sourceTree = "<group>";
 		};
-		0EC4237B233A627A00FBCA00 /* 2 - Constants, Variables, and Data Types */ = {
+		0EC42393233A634800FBCA00 /* 2 - Constants, Variables, and Data Types */ = {
 			isa = PBXGroup;
 			children = (
-				0EC4237C233A627A00FBCA00 /* lab */,
+				0EC42394233A634800FBCA00 /* lab */,
 			);
 			path = "2 - Constants, Variables, and Data Types";
 			sourceTree = "<group>";
 		};
-		0EC4237C233A627A00FBCA00 /* lab */ = {
+		0EC42394233A634800FBCA00 /* lab */ = {
 			isa = PBXGroup;
 			children = (
+				0EC42395233A634800FBCA00 /* Lab - Constants and Variables.playground */,
 			);
 			path = lab;
 			sourceTree = "<group>";
 		};
-		0EC4237D233A627A00FBCA00 /* 3 - Operators */ = {
+		0EC42396233A634800FBCA00 /* 3 - Operators */ = {
 			isa = PBXGroup;
 			children = (
-				0EC4237E233A627A00FBCA00 /* lab */,
+				0EC42397233A634800FBCA00 /* lab */,
 			);
 			path = "3 - Operators";
 			sourceTree = "<group>";
 		};
-		0EC4237E233A627A00FBCA00 /* lab */ = {
+		0EC42397233A634800FBCA00 /* lab */ = {
 			isa = PBXGroup;
 			children = (
+				0EC42398233A634800FBCA00 /* Lab - Operators.playground */,
 			);
 			path = lab;
 			sourceTree = "<group>";
 		};
-		0EC4237F233A627A00FBCA00 /* 4 - Control Flow */ = {
+		0EC42399233A634800FBCA00 /* 4 - Control Flow */ = {
 			isa = PBXGroup;
 			children = (
-				0EC42380233A627A00FBCA00 /* lab */,
+				0EC4239A233A634800FBCA00 /* lab */,
 			);
 			path = "4 - Control Flow";
 			sourceTree = "<group>";
 		};
-		0EC42380233A627A00FBCA00 /* lab */ = {
+		0EC4239A233A634800FBCA00 /* lab */ = {
 			isa = PBXGroup;
 			children = (
+				0EC4239B233A634800FBCA00 /* Lab - Control Flow.playground */,
 			);
 			path = lab;
 			sourceTree = "<group>";
 		};
-		0EC42381233A627A00FBCA00 /* 1 - Introduction to Swift and Playgrounds */ = {
+		0EC4239C233A634800FBCA00 /* 1 - Introduction to Swift and Playgrounds */ = {
 			isa = PBXGroup;
 			children = (
-				0EC42382233A627A00FBCA00 /* lab */,
+				0EC4239D233A634800FBCA00 /* lab */,
 			);
 			path = "1 - Introduction to Swift and Playgrounds";
 			sourceTree = "<group>";
 		};
-		0EC42382233A627A00FBCA00 /* lab */ = {
+		0EC4239D233A634800FBCA00 /* lab */ = {
 			isa = PBXGroup;
 			children = (
+				0EC4239E233A634800FBCA00 /* Lab - Introduction.playground */,
 			);
 			path = lab;
 			sourceTree = "<group>";
@@ -532,6 +540,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 0EC421C7233A5C3F00FBCA00;
 			productRefGroup = 0EC421D1233A5C4000FBCA00 /* Products */;
