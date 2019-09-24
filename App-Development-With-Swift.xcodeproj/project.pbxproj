@@ -6,10 +6,57 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		0EC4232B233A5CE700FBCA00 /* Tree 4.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Tree 4.pdf"; sourceTree = "<group>"; };
+		0EC4232C233A5CE700FBCA00 /* Tree 5.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Tree 5.pdf"; sourceTree = "<group>"; };
+		0EC4232D233A5CE700FBCA00 /* Tree 7.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Tree 7.pdf"; sourceTree = "<group>"; };
+		0EC4232E233A5CE700FBCA00 /* Tree 6.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Tree 6.pdf"; sourceTree = "<group>"; };
+		0EC4232F233A5CE700FBCA00 /* Tree 2.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Tree 2.pdf"; sourceTree = "<group>"; };
+		0EC42330233A5CE700FBCA00 /* Tree 3.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Tree 3.pdf"; sourceTree = "<group>"; };
+		0EC42331233A5CE700FBCA00 /* Tree 1.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Tree 1.pdf"; sourceTree = "<group>"; };
+		0EC42332233A5CE700FBCA00 /* Tree 0.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Tree 0.pdf"; sourceTree = "<group>"; };
+		0EC42349233A5CF000FBCA00 /* O.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = O.pdf; sourceTree = "<group>"; };
+		0EC4234A233A5CF000FBCA00 /* O Selected.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "O Selected.pdf"; sourceTree = "<group>"; };
+		0EC4234B233A5CF000FBCA00 /* Y.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Y.pdf; sourceTree = "<group>"; };
+		0EC4234C233A5CF000FBCA00 /* P Selected.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "P Selected.pdf"; sourceTree = "<group>"; };
+		0EC4234D233A5CF000FBCA00 /* B Selected.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "B Selected.pdf"; sourceTree = "<group>"; };
+		0EC4234E233A5CF000FBCA00 /* Y Selected.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Y Selected.pdf"; sourceTree = "<group>"; };
+		0EC4234F233A5CF000FBCA00 /* G Selected.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "G Selected.pdf"; sourceTree = "<group>"; };
+		0EC42350233A5CF000FBCA00 /* R Selected.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "R Selected.pdf"; sourceTree = "<group>"; };
+		0EC42351233A5CF000FBCA00 /* B.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = B.pdf; sourceTree = "<group>"; };
+		0EC42352233A5CF000FBCA00 /* G.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = G.pdf; sourceTree = "<group>"; };
+		0EC42353233A5CF000FBCA00 /* P.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = P.pdf; sourceTree = "<group>"; };
+		0EC42354233A5CF000FBCA00 /* R.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = R.pdf; sourceTree = "<group>"; };
+		0EC42357233A5CF000FBCA00 /* Lab - Type Casting.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Lab - Type Casting.playground"; sourceTree = "<group>"; };
+		0EC4235A233A5CF600FBCA00 /* Checked.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Checked.pdf; sourceTree = "<group>"; };
+		0EC4235B233A5CF600FBCA00 /* Unchecked.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Unchecked.pdf; sourceTree = "<group>"; };
+		0EC42363233A5CFC00FBCA00 /* pause@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pause@2x.png"; sourceTree = "<group>"; };
+		0EC42364233A5CFC00FBCA00 /* play@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "play@3x.png"; sourceTree = "<group>"; };
+		0EC42365233A5CFC00FBCA00 /* play@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "play@2x.png"; sourceTree = "<group>"; };
+		0EC42366233A5CFC00FBCA00 /* pause@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pause@3x.png"; sourceTree = "<group>"; };
+		0EC42367233A5CFC00FBCA00 /* forward@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "forward@2x.png"; sourceTree = "<group>"; };
+		0EC42368233A5CFC00FBCA00 /* reverse@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "reverse@3x.png"; sourceTree = "<group>"; };
+		0EC42369233A5CFC00FBCA00 /* reverse@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "reverse@2x.png"; sourceTree = "<group>"; };
+		0EC4236A233A5CFC00FBCA00 /* forward@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "forward@3x.png"; sourceTree = "<group>"; };
+		0EC4236B233A5CFC00FBCA00 /* forward.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = forward.png; sourceTree = "<group>"; };
+		0EC4236C233A5CFC00FBCA00 /* pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pause.png; sourceTree = "<group>"; };
+		0EC4236D233A5CFC00FBCA00 /* reverse.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = reverse.png; sourceTree = "<group>"; };
+		0EC4236E233A5CFC00FBCA00 /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
+		0EC42375233A5CFC00FBCA00 /* placeholder.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = placeholder.png; sourceTree = "<group>"; };
+		0EC42376233A5CFC00FBCA00 /* Open Restaurant.app */ = {isa = PBXFileReference; lastKnownFileType = wrapper.application; path = "Open Restaurant.app"; sourceTree = "<group>"; };
+		0EC42379233A5D0300FBCA00 /* AppCanvas.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = AppCanvas.pdf; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		0EC421C7233A5C3F00FBCA00 = {
 			isa = PBXGroup;
 			children = (
+				0EC42320233A5CDA00FBCA00 /* 1 - Getting Started */,
+				0EC42329233A5CE700FBCA00 /* 2 - Introduction to UIKit */,
+				0EC4233F233A5CF000FBCA00 /* 3 - Navigation and Workflows */,
+				0EC42358233A5CF600FBCA00 /* 4 - Tables and Persistence */,
+				0EC4235E233A5CFC00FBCA00 /* 5 - Working With the Web */,
+				0EC42377233A5D0300FBCA00 /* 6 - Prototyping and Planning */,
 				0EC421D1233A5C4000FBCA00 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -19,6 +66,454 @@
 			children = (
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		0EC42320233A5CDA00FBCA00 /* 1 - Getting Started */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42327233A5CDA00FBCA00 /* 1 - Introduction to Swift and Playgrounds */,
+				0EC42321233A5CDA00FBCA00 /* 2 - Constants, Variables, and Data Types */,
+				0EC42323233A5CDA00FBCA00 /* 3 - Operators */,
+				0EC42325233A5CDA00FBCA00 /* 4 - Control Flow */,
+			);
+			path = "1 - Getting Started";
+			sourceTree = "<group>";
+		};
+		0EC42321233A5CDA00FBCA00 /* 2 - Constants, Variables, and Data Types */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42322233A5CDA00FBCA00 /* lab */,
+			);
+			path = "2 - Constants, Variables, and Data Types";
+			sourceTree = "<group>";
+		};
+		0EC42322233A5CDA00FBCA00 /* lab */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0EC42323233A5CDA00FBCA00 /* 3 - Operators */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42324233A5CDA00FBCA00 /* lab */,
+			);
+			path = "3 - Operators";
+			sourceTree = "<group>";
+		};
+		0EC42324233A5CDA00FBCA00 /* lab */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0EC42325233A5CDA00FBCA00 /* 4 - Control Flow */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42326233A5CDA00FBCA00 /* lab */,
+			);
+			path = "4 - Control Flow";
+			sourceTree = "<group>";
+		};
+		0EC42326233A5CDA00FBCA00 /* lab */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0EC42327233A5CDA00FBCA00 /* 1 - Introduction to Swift and Playgrounds */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42328233A5CDA00FBCA00 /* lab */,
+			);
+			path = "1 - Introduction to Swift and Playgrounds";
+			sourceTree = "<group>";
+		};
+		0EC42328233A5CDA00FBCA00 /* lab */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0EC42329233A5CE700FBCA00 /* 2 - Introduction to UIKit */ = {
+			isa = PBXGroup;
+			children = (
+				0EC4232A233A5CE700FBCA00 /* Guided Project - Apple Pie */,
+				0EC4233B233A5CE700FBCA00 /* 1 - Strings */,
+				0EC42333233A5CE700FBCA00 /* 2 - Functions */,
+				0EC42337233A5CE700FBCA00 /* 3 - Structures */,
+				0EC4233D233A5CE700FBCA00 /* 4 - Classes and Inheritance */,
+				0EC42335233A5CE700FBCA00 /* 5 - Collections */,
+				0EC42339233A5CE700FBCA00 /* 6 - Loops */,
+			);
+			path = "2 - Introduction to UIKit";
+			sourceTree = "<group>";
+		};
+		0EC4232A233A5CE700FBCA00 /* Guided Project - Apple Pie */ = {
+			isa = PBXGroup;
+			children = (
+				0EC4232B233A5CE700FBCA00 /* Tree 4.pdf */,
+				0EC4232C233A5CE700FBCA00 /* Tree 5.pdf */,
+				0EC4232D233A5CE700FBCA00 /* Tree 7.pdf */,
+				0EC4232E233A5CE700FBCA00 /* Tree 6.pdf */,
+				0EC4232F233A5CE700FBCA00 /* Tree 2.pdf */,
+				0EC42330233A5CE700FBCA00 /* Tree 3.pdf */,
+				0EC42331233A5CE700FBCA00 /* Tree 1.pdf */,
+				0EC42332233A5CE700FBCA00 /* Tree 0.pdf */,
+			);
+			path = "Guided Project - Apple Pie";
+			sourceTree = "<group>";
+		};
+		0EC42333233A5CE700FBCA00 /* 2 - Functions */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42334233A5CE700FBCA00 /* lab */,
+			);
+			path = "2 - Functions";
+			sourceTree = "<group>";
+		};
+		0EC42334233A5CE700FBCA00 /* lab */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0EC42335233A5CE700FBCA00 /* 5 - Collections */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42336233A5CE700FBCA00 /* lab */,
+			);
+			path = "5 - Collections";
+			sourceTree = "<group>";
+		};
+		0EC42336233A5CE700FBCA00 /* lab */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0EC42337233A5CE700FBCA00 /* 3 - Structures */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42338233A5CE700FBCA00 /* lab */,
+			);
+			path = "3 - Structures";
+			sourceTree = "<group>";
+		};
+		0EC42338233A5CE700FBCA00 /* lab */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0EC42339233A5CE700FBCA00 /* 6 - Loops */ = {
+			isa = PBXGroup;
+			children = (
+				0EC4233A233A5CE700FBCA00 /* lab */,
+			);
+			path = "6 - Loops";
+			sourceTree = "<group>";
+		};
+		0EC4233A233A5CE700FBCA00 /* lab */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0EC4233B233A5CE700FBCA00 /* 1 - Strings */ = {
+			isa = PBXGroup;
+			children = (
+				0EC4233C233A5CE700FBCA00 /* lab */,
+			);
+			path = "1 - Strings";
+			sourceTree = "<group>";
+		};
+		0EC4233C233A5CE700FBCA00 /* lab */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0EC4233D233A5CE700FBCA00 /* 4 - Classes and Inheritance */ = {
+			isa = PBXGroup;
+			children = (
+				0EC4233E233A5CE700FBCA00 /* lab */,
+			);
+			path = "4 - Classes and Inheritance";
+			sourceTree = "<group>";
+		};
+		0EC4233E233A5CE700FBCA00 /* lab */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0EC4233F233A5CF000FBCA00 /* 3 - Navigation and Workflows */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42342233A5CF000FBCA00 /* 1 - Optionals */,
+				0EC42355233A5CF000FBCA00 /* 2 - Type Casting */,
+				0EC42344233A5CF000FBCA00 /* 3 - Guard */,
+				0EC42340233A5CF000FBCA00 /* 4 - Scope */,
+				0EC42346233A5CF000FBCA00 /* 5 - Enumerations */,
+				0EC42348233A5CF000FBCA00 /* 7 - Tab Bar Controllers */,
+			);
+			path = "3 - Navigation and Workflows";
+			sourceTree = "<group>";
+		};
+		0EC42340233A5CF000FBCA00 /* 4 - Scope */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42341233A5CF000FBCA00 /* lab */,
+			);
+			path = "4 - Scope";
+			sourceTree = "<group>";
+		};
+		0EC42341233A5CF000FBCA00 /* lab */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0EC42342233A5CF000FBCA00 /* 1 - Optionals */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42343233A5CF000FBCA00 /* lab */,
+			);
+			path = "1 - Optionals";
+			sourceTree = "<group>";
+		};
+		0EC42343233A5CF000FBCA00 /* lab */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0EC42344233A5CF000FBCA00 /* 3 - Guard */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42345233A5CF000FBCA00 /* lab */,
+			);
+			path = "3 - Guard";
+			sourceTree = "<group>";
+		};
+		0EC42345233A5CF000FBCA00 /* lab */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0EC42346233A5CF000FBCA00 /* 5 - Enumerations */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42347233A5CF000FBCA00 /* lab */,
+			);
+			path = "5 - Enumerations";
+			sourceTree = "<group>";
+		};
+		0EC42347233A5CF000FBCA00 /* lab */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0EC42348233A5CF000FBCA00 /* 7 - Tab Bar Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42349233A5CF000FBCA00 /* O.pdf */,
+				0EC4234A233A5CF000FBCA00 /* O Selected.pdf */,
+				0EC4234B233A5CF000FBCA00 /* Y.pdf */,
+				0EC4234C233A5CF000FBCA00 /* P Selected.pdf */,
+				0EC4234D233A5CF000FBCA00 /* B Selected.pdf */,
+				0EC4234E233A5CF000FBCA00 /* Y Selected.pdf */,
+				0EC4234F233A5CF000FBCA00 /* G Selected.pdf */,
+				0EC42350233A5CF000FBCA00 /* R Selected.pdf */,
+				0EC42351233A5CF000FBCA00 /* B.pdf */,
+				0EC42352233A5CF000FBCA00 /* G.pdf */,
+				0EC42353233A5CF000FBCA00 /* P.pdf */,
+				0EC42354233A5CF000FBCA00 /* R.pdf */,
+			);
+			path = "7 - Tab Bar Controllers";
+			sourceTree = "<group>";
+		};
+		0EC42355233A5CF000FBCA00 /* 2 - Type Casting */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42356233A5CF000FBCA00 /* lab */,
+			);
+			path = "2 - Type Casting";
+			sourceTree = "<group>";
+		};
+		0EC42356233A5CF000FBCA00 /* lab */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42357233A5CF000FBCA00 /* Lab - Type Casting.playground */,
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0EC42358233A5CF600FBCA00 /* 4 - Tables and Persistence */ = {
+			isa = PBXGroup;
+			children = (
+				0EC4235C233A5CF600FBCA00 /* 1 - Protocols */,
+				0EC42359233A5CF600FBCA00 /* Guided Project - List */,
+			);
+			path = "4 - Tables and Persistence";
+			sourceTree = "<group>";
+		};
+		0EC42359233A5CF600FBCA00 /* Guided Project - List */ = {
+			isa = PBXGroup;
+			children = (
+				0EC4235A233A5CF600FBCA00 /* Checked.pdf */,
+				0EC4235B233A5CF600FBCA00 /* Unchecked.pdf */,
+			);
+			path = "Guided Project - List";
+			sourceTree = "<group>";
+		};
+		0EC4235C233A5CF600FBCA00 /* 1 - Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				0EC4235D233A5CF600FBCA00 /* lab */,
+			);
+			path = "1 - Protocols";
+			sourceTree = "<group>";
+		};
+		0EC4235D233A5CF600FBCA00 /* lab */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0EC4235E233A5CFC00FBCA00 /* 5 - Working With the Web */ = {
+			isa = PBXGroup;
+			children = (
+				0EC4236F233A5CFC00FBCA00 /* 1 - Closures */,
+				0EC4235F233A5CFC00FBCA00 /* 2 - Extensions */,
+				0EC42361233A5CFC00FBCA00 /* 3 - Animations */,
+				0EC42371233A5CFC00FBCA00 /* 5 - WWW JSON Serialization */,
+				0EC42373233A5CFC00FBCA00 /* Guided Project - Restaurant */,
+			);
+			path = "5 - Working With the Web";
+			sourceTree = "<group>";
+		};
+		0EC4235F233A5CFC00FBCA00 /* 2 - Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42360233A5CFC00FBCA00 /* lab */,
+			);
+			path = "2 - Extensions";
+			sourceTree = "<group>";
+		};
+		0EC42360233A5CFC00FBCA00 /* lab */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0EC42361233A5CFC00FBCA00 /* 3 - Animations */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42362233A5CFC00FBCA00 /* Icons */,
+			);
+			path = "3 - Animations";
+			sourceTree = "<group>";
+		};
+		0EC42362233A5CFC00FBCA00 /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42363233A5CFC00FBCA00 /* pause@2x.png */,
+				0EC42364233A5CFC00FBCA00 /* play@3x.png */,
+				0EC42365233A5CFC00FBCA00 /* play@2x.png */,
+				0EC42366233A5CFC00FBCA00 /* pause@3x.png */,
+				0EC42367233A5CFC00FBCA00 /* forward@2x.png */,
+				0EC42368233A5CFC00FBCA00 /* reverse@3x.png */,
+				0EC42369233A5CFC00FBCA00 /* reverse@2x.png */,
+				0EC4236A233A5CFC00FBCA00 /* forward@3x.png */,
+				0EC4236B233A5CFC00FBCA00 /* forward.png */,
+				0EC4236C233A5CFC00FBCA00 /* pause.png */,
+				0EC4236D233A5CFC00FBCA00 /* reverse.png */,
+				0EC4236E233A5CFC00FBCA00 /* play.png */,
+			);
+			path = Icons;
+			sourceTree = "<group>";
+		};
+		0EC4236F233A5CFC00FBCA00 /* 1 - Closures */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42370233A5CFC00FBCA00 /* lab */,
+			);
+			path = "1 - Closures";
+			sourceTree = "<group>";
+		};
+		0EC42370233A5CFC00FBCA00 /* lab */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0EC42371233A5CFC00FBCA00 /* 5 - WWW JSON Serialization */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42372233A5CFC00FBCA00 /* lab */,
+			);
+			path = "5 - WWW JSON Serialization";
+			sourceTree = "<group>";
+		};
+		0EC42372233A5CFC00FBCA00 /* lab */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0EC42373233A5CFC00FBCA00 /* Guided Project - Restaurant */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42374233A5CFC00FBCA00 /* Restaurant */,
+			);
+			path = "Guided Project - Restaurant";
+			sourceTree = "<group>";
+		};
+		0EC42374233A5CFC00FBCA00 /* Restaurant */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42375233A5CFC00FBCA00 /* placeholder.png */,
+				0EC42376233A5CFC00FBCA00 /* Open Restaurant.app */,
+			);
+			path = Restaurant;
+			sourceTree = "<group>";
+		};
+		0EC42377233A5D0300FBCA00 /* 6 - Prototyping and Planning */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42378233A5D0300FBCA00 /* 4 - Project Planning */,
+			);
+			path = "6 - Prototyping and Planning";
+			sourceTree = "<group>";
+		};
+		0EC42378233A5D0300FBCA00 /* 4 - Project Planning */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42379233A5D0300FBCA00 /* AppCanvas.pdf */,
+			);
+			path = "4 - Project Planning";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
