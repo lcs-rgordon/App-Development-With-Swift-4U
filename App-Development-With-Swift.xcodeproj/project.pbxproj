@@ -51,7 +51,7 @@
 		0EC421C7233A5C3F00FBCA00 = {
 			isa = PBXGroup;
 			children = (
-				0EC42320233A5CDA00FBCA00 /* 1 - Getting Started */,
+				0EC4237A233A627A00FBCA00 /* 1 - Getting Started */,
 				0EC42329233A5CE700FBCA00 /* 2 - Introduction to UIKit */,
 				0EC4233F233A5CF000FBCA00 /* 3 - Navigation and Workflows */,
 				0EC42358233A5CF600FBCA00 /* 4 - Tables and Persistence */,
@@ -66,77 +66,6 @@
 			children = (
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		0EC42320233A5CDA00FBCA00 /* 1 - Getting Started */ = {
-			isa = PBXGroup;
-			children = (
-				0EC42327233A5CDA00FBCA00 /* 1 - Introduction to Swift and Playgrounds */,
-				0EC42321233A5CDA00FBCA00 /* 2 - Constants, Variables, and Data Types */,
-				0EC42323233A5CDA00FBCA00 /* 3 - Operators */,
-				0EC42325233A5CDA00FBCA00 /* 4 - Control Flow */,
-			);
-			path = "1 - Getting Started";
-			sourceTree = "<group>";
-		};
-		0EC42321233A5CDA00FBCA00 /* 2 - Constants, Variables, and Data Types */ = {
-			isa = PBXGroup;
-			children = (
-				0EC42322233A5CDA00FBCA00 /* lab */,
-			);
-			path = "2 - Constants, Variables, and Data Types";
-			sourceTree = "<group>";
-		};
-		0EC42322233A5CDA00FBCA00 /* lab */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = lab;
-			sourceTree = "<group>";
-		};
-		0EC42323233A5CDA00FBCA00 /* 3 - Operators */ = {
-			isa = PBXGroup;
-			children = (
-				0EC42324233A5CDA00FBCA00 /* lab */,
-			);
-			path = "3 - Operators";
-			sourceTree = "<group>";
-		};
-		0EC42324233A5CDA00FBCA00 /* lab */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = lab;
-			sourceTree = "<group>";
-		};
-		0EC42325233A5CDA00FBCA00 /* 4 - Control Flow */ = {
-			isa = PBXGroup;
-			children = (
-				0EC42326233A5CDA00FBCA00 /* lab */,
-			);
-			path = "4 - Control Flow";
-			sourceTree = "<group>";
-		};
-		0EC42326233A5CDA00FBCA00 /* lab */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = lab;
-			sourceTree = "<group>";
-		};
-		0EC42327233A5CDA00FBCA00 /* 1 - Introduction to Swift and Playgrounds */ = {
-			isa = PBXGroup;
-			children = (
-				0EC42328233A5CDA00FBCA00 /* lab */,
-			);
-			path = "1 - Introduction to Swift and Playgrounds";
-			sourceTree = "<group>";
-		};
-		0EC42328233A5CDA00FBCA00 /* lab */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = lab;
 			sourceTree = "<group>";
 		};
 		0EC42329233A5CE700FBCA00 /* 2 - Introduction to UIKit */ = {
@@ -514,6 +443,77 @@
 				0EC42379233A5D0300FBCA00 /* AppCanvas.pdf */,
 			);
 			path = "4 - Project Planning";
+			sourceTree = "<group>";
+		};
+		0EC4237A233A627A00FBCA00 /* 1 - Getting Started */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42381233A627A00FBCA00 /* 1 - Introduction to Swift and Playgrounds */,
+				0EC4237B233A627A00FBCA00 /* 2 - Constants, Variables, and Data Types */,
+				0EC4237D233A627A00FBCA00 /* 3 - Operators */,
+				0EC4237F233A627A00FBCA00 /* 4 - Control Flow */,
+			);
+			path = "1 - Getting Started";
+			sourceTree = "<group>";
+		};
+		0EC4237B233A627A00FBCA00 /* 2 - Constants, Variables, and Data Types */ = {
+			isa = PBXGroup;
+			children = (
+				0EC4237C233A627A00FBCA00 /* lab */,
+			);
+			path = "2 - Constants, Variables, and Data Types";
+			sourceTree = "<group>";
+		};
+		0EC4237C233A627A00FBCA00 /* lab */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0EC4237D233A627A00FBCA00 /* 3 - Operators */ = {
+			isa = PBXGroup;
+			children = (
+				0EC4237E233A627A00FBCA00 /* lab */,
+			);
+			path = "3 - Operators";
+			sourceTree = "<group>";
+		};
+		0EC4237E233A627A00FBCA00 /* lab */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0EC4237F233A627A00FBCA00 /* 4 - Control Flow */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42380233A627A00FBCA00 /* lab */,
+			);
+			path = "4 - Control Flow";
+			sourceTree = "<group>";
+		};
+		0EC42380233A627A00FBCA00 /* lab */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0EC42381233A627A00FBCA00 /* 1 - Introduction to Swift and Playgrounds */ = {
+			isa = PBXGroup;
+			children = (
+				0EC42382233A627A00FBCA00 /* lab */,
+			);
+			path = "1 - Introduction to Swift and Playgrounds";
+			sourceTree = "<group>";
+		};
+		0EC42382233A627A00FBCA00 /* lab */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = lab;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
