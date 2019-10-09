@@ -7,6 +7,20 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		0E08B5E7234EA9140071220F /* Lab - Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Lab - Strings.playground"; path = "lab/Lab - Strings.playground"; sourceTree = SOURCE_ROOT; };
+		0E08B5E8234EA9BF0071220F /* Lab - Functions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Lab - Functions.playground"; path = "lab/Lab - Functions.playground"; sourceTree = SOURCE_ROOT; };
+		0E08B5E9234EA9E50071220F /* Lab - Structures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Lab - Structures.playground"; path = "lab/Lab - Structures.playground"; sourceTree = SOURCE_ROOT; };
+		0E08B5EA234EA9F30071220F /* Lab - Classes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Lab - Classes.playground"; path = "lab/Lab - Classes.playground"; sourceTree = SOURCE_ROOT; };
+		0E08B5EB234EAA050071220F /* Lab - Collections.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Lab - Collections.playground"; path = "lab/Lab - Collections.playground"; sourceTree = SOURCE_ROOT; };
+		0E08B5EC234EAA120071220F /* Lab - Loops.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Lab - Loops.playground"; path = "lab/Lab - Loops.playground"; sourceTree = SOURCE_ROOT; };
+		0E08B5ED234EAA250071220F /* Lab - Optionals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Lab - Optionals.playground"; path = "lab/Lab - Optionals.playground"; sourceTree = SOURCE_ROOT; };
+		0E08B5F3234EAA860071220F /* Lab - Guard.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Lab - Guard.playground"; sourceTree = "<group>"; };
+		0E08B5F6234EAA860071220F /* Lab - Scope.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Lab - Scope.playground"; sourceTree = "<group>"; };
+		0E08B5F9234EAABA0071220F /* Lab - Enumerations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Lab - Enumerations.playground"; sourceTree = "<group>"; };
+		0E08B5FC234EAAD10071220F /* Lab - Protocols.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Lab - Protocols.playground"; sourceTree = "<group>"; };
+		0E08B5FF234EAAFC0071220F /* Lab - Closures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Lab - Closures.playground"; sourceTree = "<group>"; };
+		0E08B602234EAB180071220F /* Lab - Extensions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Lab - Extensions.playground"; sourceTree = "<group>"; };
+		0E08B605234EAB3D0071220F /* iTunesSearch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = iTunesSearch.playground; sourceTree = "<group>"; };
 		0EC4232B233A5CE700FBCA00 /* Tree 4.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Tree 4.pdf"; sourceTree = "<group>"; };
 		0EC4232C233A5CE700FBCA00 /* Tree 5.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Tree 5.pdf"; sourceTree = "<group>"; };
 		0EC4232D233A5CE700FBCA00 /* Tree 7.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Tree 7.pdf"; sourceTree = "<group>"; };
@@ -52,6 +66,119 @@
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
+		0E08B5F1234EAA860071220F /* 3 - Guard */ = {
+			isa = PBXGroup;
+			children = (
+				0E08B5F2234EAA860071220F /* lab */,
+			);
+			path = "3 - Guard";
+			sourceTree = "<group>";
+		};
+		0E08B5F2234EAA860071220F /* lab */ = {
+			isa = PBXGroup;
+			children = (
+				0E08B5F3234EAA860071220F /* Lab - Guard.playground */,
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0E08B5F4234EAA860071220F /* 4 - Scope */ = {
+			isa = PBXGroup;
+			children = (
+				0E08B5F5234EAA860071220F /* lab */,
+			);
+			name = "4 - Scope";
+			path = "../../../../../Downloads/Student Resources-4/3 - Navigation and Workflows/4 - Scope";
+			sourceTree = "<group>";
+		};
+		0E08B5F5234EAA860071220F /* lab */ = {
+			isa = PBXGroup;
+			children = (
+				0E08B5F6234EAA860071220F /* Lab - Scope.playground */,
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0E08B5F7234EAABA0071220F /* 5 - Enumerations */ = {
+			isa = PBXGroup;
+			children = (
+				0E08B5F8234EAABA0071220F /* lab */,
+			);
+			path = "5 - Enumerations";
+			sourceTree = "<group>";
+		};
+		0E08B5F8234EAABA0071220F /* lab */ = {
+			isa = PBXGroup;
+			children = (
+				0E08B5F9234EAABA0071220F /* Lab - Enumerations.playground */,
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0E08B5FA234EAAD10071220F /* 1 - Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				0E08B5FB234EAAD10071220F /* lab */,
+			);
+			path = "1 - Protocols";
+			sourceTree = "<group>";
+		};
+		0E08B5FB234EAAD10071220F /* lab */ = {
+			isa = PBXGroup;
+			children = (
+				0E08B5FC234EAAD10071220F /* Lab - Protocols.playground */,
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0E08B5FD234EAAFC0071220F /* 1 - Closures */ = {
+			isa = PBXGroup;
+			children = (
+				0E08B5FE234EAAFC0071220F /* lab */,
+			);
+			path = "1 - Closures";
+			sourceTree = "<group>";
+		};
+		0E08B5FE234EAAFC0071220F /* lab */ = {
+			isa = PBXGroup;
+			children = (
+				0E08B5FF234EAAFC0071220F /* Lab - Closures.playground */,
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0E08B600234EAB180071220F /* 2 - Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				0E08B601234EAB180071220F /* lab */,
+			);
+			path = "2 - Extensions";
+			sourceTree = "<group>";
+		};
+		0E08B601234EAB180071220F /* lab */ = {
+			isa = PBXGroup;
+			children = (
+				0E08B602234EAB180071220F /* Lab - Extensions.playground */,
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
+		0E08B603234EAB3D0071220F /* 5 - WWW JSON Serialization */ = {
+			isa = PBXGroup;
+			children = (
+				0E08B604234EAB3D0071220F /* lab */,
+			);
+			path = "5 - WWW JSON Serialization";
+			sourceTree = "<group>";
+		};
+		0E08B604234EAB3D0071220F /* lab */ = {
+			isa = PBXGroup;
+			children = (
+				0E08B605234EAB3D0071220F /* iTunesSearch.playground */,
+			);
+			path = lab;
+			sourceTree = "<group>";
+		};
 		0EC421C7233A5C3F00FBCA00 = {
 			isa = PBXGroup;
 			children = (
@@ -112,6 +239,7 @@
 		0EC42334233A5CE700FBCA00 /* lab */ = {
 			isa = PBXGroup;
 			children = (
+				0E08B5E8234EA9BF0071220F /* Lab - Functions.playground */,
 			);
 			path = lab;
 			sourceTree = "<group>";
@@ -127,6 +255,7 @@
 		0EC42336233A5CE700FBCA00 /* lab */ = {
 			isa = PBXGroup;
 			children = (
+				0E08B5EB234EAA050071220F /* Lab - Collections.playground */,
 			);
 			path = lab;
 			sourceTree = "<group>";
@@ -142,6 +271,7 @@
 		0EC42338233A5CE700FBCA00 /* lab */ = {
 			isa = PBXGroup;
 			children = (
+				0E08B5E9234EA9E50071220F /* Lab - Structures.playground */,
 			);
 			path = lab;
 			sourceTree = "<group>";
@@ -157,6 +287,7 @@
 		0EC4233A233A5CE700FBCA00 /* lab */ = {
 			isa = PBXGroup;
 			children = (
+				0E08B5EC234EAA120071220F /* Lab - Loops.playground */,
 			);
 			path = lab;
 			sourceTree = "<group>";
@@ -172,6 +303,7 @@
 		0EC4233C233A5CE700FBCA00 /* lab */ = {
 			isa = PBXGroup;
 			children = (
+				0E08B5E7234EA9140071220F /* Lab - Strings.playground */,
 			);
 			path = lab;
 			sourceTree = "<group>";
@@ -187,6 +319,7 @@
 		0EC4233E233A5CE700FBCA00 /* lab */ = {
 			isa = PBXGroup;
 			children = (
+				0E08B5EA234EA9F30071220F /* Lab - Classes.playground */,
 			);
 			path = lab;
 			sourceTree = "<group>";
@@ -196,27 +329,12 @@
 			children = (
 				0EC42342233A5CF000FBCA00 /* 1 - Optionals */,
 				0EC42355233A5CF000FBCA00 /* 2 - Type Casting */,
-				0EC42344233A5CF000FBCA00 /* 3 - Guard */,
-				0EC42340233A5CF000FBCA00 /* 4 - Scope */,
-				0EC42346233A5CF000FBCA00 /* 5 - Enumerations */,
+				0E08B5F1234EAA860071220F /* 3 - Guard */,
+				0E08B5F4234EAA860071220F /* 4 - Scope */,
+				0E08B5F7234EAABA0071220F /* 5 - Enumerations */,
 				0EC42348233A5CF000FBCA00 /* 7 - Tab Bar Controllers */,
 			);
 			path = "3 - Navigation and Workflows";
-			sourceTree = "<group>";
-		};
-		0EC42340233A5CF000FBCA00 /* 4 - Scope */ = {
-			isa = PBXGroup;
-			children = (
-				0EC42341233A5CF000FBCA00 /* lab */,
-			);
-			path = "4 - Scope";
-			sourceTree = "<group>";
-		};
-		0EC42341233A5CF000FBCA00 /* lab */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = lab;
 			sourceTree = "<group>";
 		};
 		0EC42342233A5CF000FBCA00 /* 1 - Optionals */ = {
@@ -230,36 +348,7 @@
 		0EC42343233A5CF000FBCA00 /* lab */ = {
 			isa = PBXGroup;
 			children = (
-			);
-			path = lab;
-			sourceTree = "<group>";
-		};
-		0EC42344233A5CF000FBCA00 /* 3 - Guard */ = {
-			isa = PBXGroup;
-			children = (
-				0EC42345233A5CF000FBCA00 /* lab */,
-			);
-			path = "3 - Guard";
-			sourceTree = "<group>";
-		};
-		0EC42345233A5CF000FBCA00 /* lab */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = lab;
-			sourceTree = "<group>";
-		};
-		0EC42346233A5CF000FBCA00 /* 5 - Enumerations */ = {
-			isa = PBXGroup;
-			children = (
-				0EC42347233A5CF000FBCA00 /* lab */,
-			);
-			path = "5 - Enumerations";
-			sourceTree = "<group>";
-		};
-		0EC42347233A5CF000FBCA00 /* lab */ = {
-			isa = PBXGroup;
-			children = (
+				0E08B5ED234EAA250071220F /* Lab - Optionals.playground */,
 			);
 			path = lab;
 			sourceTree = "<group>";
@@ -302,7 +391,7 @@
 		0EC42358233A5CF600FBCA00 /* 4 - Tables and Persistence */ = {
 			isa = PBXGroup;
 			children = (
-				0EC4235C233A5CF600FBCA00 /* 1 - Protocols */,
+				0E08B5FA234EAAD10071220F /* 1 - Protocols */,
 				0EC42359233A5CF600FBCA00 /* Guided Project - List */,
 			);
 			path = "4 - Tables and Persistence";
@@ -317,46 +406,16 @@
 			path = "Guided Project - List";
 			sourceTree = "<group>";
 		};
-		0EC4235C233A5CF600FBCA00 /* 1 - Protocols */ = {
-			isa = PBXGroup;
-			children = (
-				0EC4235D233A5CF600FBCA00 /* lab */,
-			);
-			path = "1 - Protocols";
-			sourceTree = "<group>";
-		};
-		0EC4235D233A5CF600FBCA00 /* lab */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = lab;
-			sourceTree = "<group>";
-		};
 		0EC4235E233A5CFC00FBCA00 /* 5 - Working With the Web */ = {
 			isa = PBXGroup;
 			children = (
-				0EC4236F233A5CFC00FBCA00 /* 1 - Closures */,
-				0EC4235F233A5CFC00FBCA00 /* 2 - Extensions */,
+				0E08B5FD234EAAFC0071220F /* 1 - Closures */,
+				0E08B600234EAB180071220F /* 2 - Extensions */,
 				0EC42361233A5CFC00FBCA00 /* 3 - Animations */,
-				0EC42371233A5CFC00FBCA00 /* 5 - WWW JSON Serialization */,
+				0E08B603234EAB3D0071220F /* 5 - WWW JSON Serialization */,
 				0EC42373233A5CFC00FBCA00 /* Guided Project - Restaurant */,
 			);
 			path = "5 - Working With the Web";
-			sourceTree = "<group>";
-		};
-		0EC4235F233A5CFC00FBCA00 /* 2 - Extensions */ = {
-			isa = PBXGroup;
-			children = (
-				0EC42360233A5CFC00FBCA00 /* lab */,
-			);
-			path = "2 - Extensions";
-			sourceTree = "<group>";
-		};
-		0EC42360233A5CFC00FBCA00 /* lab */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = lab;
 			sourceTree = "<group>";
 		};
 		0EC42361233A5CFC00FBCA00 /* 3 - Animations */ = {
@@ -384,36 +443,6 @@
 				0EC4236E233A5CFC00FBCA00 /* play.png */,
 			);
 			path = Icons;
-			sourceTree = "<group>";
-		};
-		0EC4236F233A5CFC00FBCA00 /* 1 - Closures */ = {
-			isa = PBXGroup;
-			children = (
-				0EC42370233A5CFC00FBCA00 /* lab */,
-			);
-			path = "1 - Closures";
-			sourceTree = "<group>";
-		};
-		0EC42370233A5CFC00FBCA00 /* lab */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = lab;
-			sourceTree = "<group>";
-		};
-		0EC42371233A5CFC00FBCA00 /* 5 - WWW JSON Serialization */ = {
-			isa = PBXGroup;
-			children = (
-				0EC42372233A5CFC00FBCA00 /* lab */,
-			);
-			path = "5 - WWW JSON Serialization";
-			sourceTree = "<group>";
-		};
-		0EC42372233A5CFC00FBCA00 /* lab */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = lab;
 			sourceTree = "<group>";
 		};
 		0EC42373233A5CFC00FBCA00 /* Guided Project - Restaurant */ = {
